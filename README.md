@@ -678,3 +678,79 @@ SEC-Financial-Dashboard/
 │   └── Page4_Investment_Strategic_Insights.png
 │
 └── README.md
+
+## How to Use This Project
+
+1. Clone or download this repository.
+
+2. Open the Power BI dashboard file:
+
+```text
+PowerBI/SEC Financial Dashboard final.pbix
+```
+
+3. Explore the four dashboard pages:
+
+* Executive Financial Overview
+* Profitability Analysis
+* Cash Flow Analysis
+* Investment & Strategic Insights
+
+4. Open the Jupyter Notebook to review the complete data engineering workflow:
+
+```text
+Notebook/SEC_Financial_Dashboard.ipynb
+```
+
+5. Review the cleaned datasets used in Power BI:
+
+```text
+Data/SEC_Dashboard_CORRECTED.csv
+Data/SEC_Annual_Summary.csv
+```
+
+6. Use slicers to filter results by:
+
+* Company
+* Year
+* Sector
+
+7. Analyze financial performance, profitability, cash flow efficiency, and investment attractiveness across companies and sectors.
+
+---
+
+## Important Notes
+
+The original SEC Financial Statement Data Sets are not included in this repository because the raw files are extremely large and exceed GitHub storage limits.
+
+To reproduce the complete workflow from source data:
+
+1. Download the SEC Financial Statement Data Sets from:
+
+https://www.sec.gov/dera/data/financial-statement-data-sets
+
+2. Extract the quarterly folders locally.
+
+3. Update the raw data directory path inside the Jupyter Notebook.
+
+4. Run the notebook from start to finish to regenerate the cleaned datasets.
+
+The repository contains the final cleaned datasets required to reproduce the Power BI dashboard without downloading the complete SEC archive.
+
+---
+
+## Author
+
+### Ankita Tripathy
+
+
+Interests:
+
+* Financial Analytics
+* Business Intelligence
+* Data Analytics
+* Risk Analytics
+* Artificial Intelligence
+* Power BI & Data Visualization
+* Banking & Financial Services Analytics
+
