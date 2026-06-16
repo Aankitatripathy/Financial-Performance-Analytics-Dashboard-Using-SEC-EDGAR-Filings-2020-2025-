@@ -134,6 +134,7 @@ The project processes SEC quarterly folders from:
 - 2025 Q1
 - 2025 Q2
 - 2025 Q3
+- 2025 Q4
 
 Note: The analysis uses available SEC quarterly filing data. Some Q4 values may not be fully comparable because annual 10-K reporting differs from quarterly 10-Q reporting.
 
